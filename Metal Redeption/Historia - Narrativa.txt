@@ -1,0 +1,37 @@
+Historia de Metal Redemption
+
+En un futuro distópico, las corporaciones tecnológicas han alcanzado un poder incontrolable. La robótica ha evolucionado hasta niveles impensables, con cada empresa compitiendo por desarrollar las creaciones más avanzadas. Entre estas corporaciones, una en particular destaca por su crueldad y ambición: Junaeb corp
+
+El protagonista, un robot llamado B127, fue construido por su padre, un brillante ingeniero llamado Dr. Mart, que siempre buscó crear tecnología para el bien de la humanidad. Su último proyecto fue B127, un robot con habilidades de combate avanzadas, diseñado para proteger a la humanidad. Sin embargo, en su deseo de detener la guerra corporativa, el Dr. Mart fue brutalmente asesinado por un grupo de científicos rivales, conocidos como Los Seis Forjadores, que buscaban eliminar toda competencia en su carrera por dominar el mercado de la robótica.
+
+B127, al descubrir el asesinato de su padre, activa sus protocolos de venganza. Su misión: cazar y eliminar a Los Seis Forjadores, quienes están protegidos por un ejército de secuaces robotizados y mercenarios. Para obtener la información necesaria sobre el paradero de cada uno de los creadores, B127 tendrá que enfrentar a sus fuerzas y desmantelar las operaciones de cada científico, uno por uno.
+
+Estructura del Juego:
+Fase de combate y plataformas: B127 deberá recorrer distintos entornos inspirados en el salvaje oeste y ciudades futuristas desérticas, enfrentándose a hordas de enemigos, superando trampas y resolviendo pequeños desafíos.
+
+Duelo final: Al final de cada misión, B127 se enfrentará a uno de Los Seis Forjadores en un duelo inspirado en el viejo oeste. Estos duelos requieren precisión y velocidad, donde los reflejos del jugador son puestos a prueba.
+
+Los Seis Forjadores:
+B127 deberá desmantelar sus operaciones y enfrentarse a ellos en duelos.
+
+Dr. Sus: Experto en inteligencia artificial y creación de drones de vigilancia. Su duelo se desarrolla en un desierto, bajo el sol abrasador.
+
+Dr. Django: Especialista en tecnología médica que usa robots regenerativos. y enfrentarse a el en un duelo en una clínica abandonada.
+
+Dr. Pydoc: Un genio en armamento robótico pesado. l duelo ocurre en un bosque.
+
+Dra. Muck: Experta en nanotecnología, El duelo contra ella tiene lugar  en las montañas nevadas.
+
+Dr. Cj: Ingeniero en biotecnología y cibernética. El duelo se desarrolla en un cementerio.
+
+Dr. Floyd: Líder de Los Seis Creadores, responsable directo de la muerte del padre de B127. Es el científico más peligroso, y su fortaleza final está en una ciudad  oculta. El duelo final contra él es el más épico de todos.
+
+El Giro Final:
+Después de acabar con los seis, B127 descubre una verdad devastadora: Los Seis Forjadores no eran meros competidores codiciosos, sino que trabajaban en un proyecto secreto para crear un robot capaz de curar el cáncer, con la esperanza de salvar millones de vidas. El robot que estaban desarrollando era B128, la siguiente generación de B127. En su ciega sed de venganza, B127 descubre que ha sido manipulado por su creador, y él mismo se ha convertido en el villano de esta historia.
+
+Estilo de juego:
+Acción 2D al estilo de Metal Slug, con movimientos rápidos, disparos precisos y enfrentamientos frenéticos.
+Mecánicas de plataformas para avanzar entre niveles llenos de obstáculos y enemigos.
+Duelo de vaquero al final de cada nivel, donde se requiere precisión en el disparo, similar a los duelos clásicos del viejo oeste.
+Con una mezcla de Metal Slug y Red Dead Redemption, Metal Redemption presenta una aventura intensa, donde la línea entre el bien y el mal se desvanece, y el protagonista debe enfrentar las consecuencias de su venganza
+
